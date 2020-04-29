@@ -1,2 +1,18 @@
-TradingView Backtest
 - http://mindrighttrading.blogspot.com/2012/05/build-your-own-excel-montecarlo.html
+- https://www.gurufocus.com/term/ev2ebitda/NYSE:SPXC/EV-to-EBITDA/SPX-Corp
+- https://www.linnsoft.com/
+- https://zorro-trader.com/features.php
+- https://www.the-lazy-trader.com/2012/03/lock-profit-vertical-spread.html
+- https://www.reddit.com/r/options/comments/9r6d7z/trading_primarily_etf_monthly_iron_butterflies/
+- https://www.fool.com/knowledge-center/how-to-calculate-annualized-volatility.aspx
+- https://evilspeculator.com/realized-versus-implied-volatility/
+- https://www.optionsanimal.com/using-implied-volatility-determine-expected-range-stock/
+- https://backtest-rookies.com/2017/07/03/backtrader-swing-indicator/
+- https://www.quantopian.com/posts/my-first-pipeline-how-to-find-stocks-with-consecutive-higher-lows-low-4-low-3-low-2-low-1
+- https://stackoverflow.com/questions/23614259/identifying-price-swings-trends-in-pandas-dataframe-with-stock-quotes?rq=1
+- https://www.forexfactory.com/showthread.php?t=22663
+- https://www.elitetrader.com/et/threads/line-in-the-sand.87632/
+- https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/long-butterfly-spread-calls
+- https://www.alphaquery.com/stock/SPY/volatility-option-statistics/30-day/historical-volatility
+- https://www.cboe.com/blogs/options-hub/2015/12/10/3-joys-of-a-spx-weekly-iron-butterfly
+- 
