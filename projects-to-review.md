@@ -34,4 +34,7 @@
 - https://metacpan.org/source/BINARY/Quant-Framework-0.36/lib/Quant/Framework/VolSurface/Delta.pm
 - https://www.quantrocket.com/docs/#historical
 - https://docs.rs/crate/fin_model/0.1.2
+- https://telliott99.blogspot.com/2011/02/plot-of-quadratic-in-python.html
+- https://github.com/telerik/blazor-stocks
+- https://demos.telerik.com/blazor-financial-portfolio
 - 
