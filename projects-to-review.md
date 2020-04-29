@@ -45,4 +45,5 @@
 - https://backtest-rookies.com/2018/03/16/tradingview-swing-indicator/
 - https://www.tradingview.com/blog/en/introducing-pine-script-4-12626/
 - https://www.tradingview.com/script/BDAHd8jc-Trend-Angle-BF/
+- https://medium.com/skillshare-team/from-docker-compose-to-minikube-d94cbe97acda
 - 
