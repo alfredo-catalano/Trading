@@ -37,4 +37,11 @@
 - https://telliott99.blogspot.com/2011/02/plot-of-quadratic-in-python.html
 - https://github.com/telerik/blazor-stocks
 - https://demos.telerik.com/blazor-financial-portfolio
+- https://www.tradingview.com/script/4X2icV1L-RS-NM-Improved-Linear-Regression-Bull-and-Bear-Power-v01/
+- https://www.mql5.com/en/articles/3237
+- https://backtest-rookies.com/2018/04/27/tradingview-code-snippet-percentage-change-function/
+- https://www.tradingview.com/script/pyT5mvLO/
+- https://backtest-rookies.com/2018/03/16/tradingview-swing-indicator/
+- https://www.tradingview.com/blog/en/introducing-pine-script-4-12626/
+- https://www.tradingview.com/script/BDAHd8jc-Trend-Angle-BF/
 - 
