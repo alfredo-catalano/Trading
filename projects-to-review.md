@@ -1,3 +1,4 @@
+- https://github.com/trending/rust
 - https://github.com/amolthacker/hwx-pricing-engine
 - https://github.com/EliteQuant/EliteQuant_Cpp
 - https://github.com/qmiao/Trading
