@@ -31,4 +31,7 @@
 - https://api.github.com/search/repositories?q=portfolio+language:rust&sort=stars&order=desc
 - https://github.com/sparkstartconsulting/finplot
 - https://github.com/dashed/technical_indicators
+- https://metacpan.org/source/BINARY/Quant-Framework-0.36/lib/Quant/Framework/VolSurface/Delta.pm
+- https://www.quantrocket.com/docs/#historical
+- https://docs.rs/crate/fin_model/0.1.2
 - 
