@@ -7,6 +7,7 @@
 - https://www.fool.com/knowledge-center/how-to-calculate-annualized-volatility.aspx
 - https://goodcalculators.com/historical-volatility-calculator/
 - https://evilspeculator.com/realized-versus-implied-volatility/
+- https://www.macroption.com/implied-volatility-calculator/
 - https://www.optionsanimal.com/using-implied-volatility-determine-expected-range-stock/
 - https://backtest-rookies.com/2017/07/03/backtrader-swing-indicator/
 - https://www.quantopian.com/posts/my-first-pipeline-how-to-find-stocks-with-consecutive-higher-lows-low-4-low-3-low-2-low-1
