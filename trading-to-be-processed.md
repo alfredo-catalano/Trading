@@ -5,6 +5,7 @@
 - https://www.the-lazy-trader.com/2012/03/lock-profit-vertical-spread.html
 - https://www.reddit.com/r/options/comments/9r6d7z/trading_primarily_etf_monthly_iron_butterflies/
 - https://www.fool.com/knowledge-center/how-to-calculate-annualized-volatility.aspx
+- https://goodcalculators.com/historical-volatility-calculator/
 - https://evilspeculator.com/realized-versus-implied-volatility/
 - https://www.optionsanimal.com/using-implied-volatility-determine-expected-range-stock/
 - https://backtest-rookies.com/2017/07/03/backtrader-swing-indicator/
