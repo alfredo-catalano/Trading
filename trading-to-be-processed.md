@@ -20,3 +20,4 @@
 - https://www.cboe.com/blogs/options-hub/2015/12/10/3-joys-of-a-spx-weekly-iron-butterfly
 - http://technical-analysis-addins.com/trading-Gann-numbervib.php
 - https://www.elitetrader.com/et/threads/line-in-the-sand.87632/
+- https://evanlariviereblog.wordpress.com/2018/04/25/one-hot-encoding-and-binning/
